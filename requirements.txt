@@ -1,0 +1,19 @@
+# Core CV/AI libraries
+torch==2.3.0
+torchvision==0.18.0
+opencv-python==4.9.0.80
+open3d==0.18.0
+numpy==1.23.5
+matplotlib==3.9.0
+
+# Depth estimation and segmentation
+transformers==4.42.2
+segment-anything==1.0.0
+timm==0.6.7
+pillow==10.3.0
+
+# Optional for NeRF workflows
+nerfstudio==1.1.5
+
+# Web-based visualization and notebooks
+notebook==7.2.0

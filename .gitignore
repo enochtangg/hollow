@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model checkpoints and weights
+models/
+*.pth
+*.ckpt
+*.pt
+*.onnx
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+*.npy
+*.npz
+
+# Open3D and other exports
+*.ply
+*.obj
+*.pcd
